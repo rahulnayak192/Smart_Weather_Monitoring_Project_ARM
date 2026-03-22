@@ -66,6 +66,5 @@ The modular design allows for the addition of new sensors or features, making th
 # LICENSING
 
 
-# Security Policy
-Refer [`SECURITY.md`]() for Security Policy.
+
 
